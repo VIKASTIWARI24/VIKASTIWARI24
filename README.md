@@ -1,0 +1,5 @@
+- 👋 Hi, I’m VIKAS
+- 👀 I’m interested in web and android devlopement
+- 🌱 I’m currently learning data structure and algo
+- 💞️ I’m looking to collaborate on a project on web devlopement
+- 📫 connet with me on twitter
